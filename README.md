@@ -1,7 +1,7 @@
-```markdown
+
 # Supplementary Materials for the Vibe-Coding OSS Study
 
-This repository contains supplementary code and survey materials for our study of how AI coding assistants are used in open-source software (OSS) repositories and how repository activity changes after observable AI adoption.
+This repository contains supplementary code and survey materials for our study of how AI coding assistants are used in open-source software (OSS) repositories and how repository activity changes after observable AI adoption. Data collection and labeling largely follow prior studies, so the corresponding scripts are relatively simple. We organize the data-analysis scripts in one Python file to support clearer and easier interpretation.
 
 The supplementary materials include:
 
