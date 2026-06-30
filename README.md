@@ -122,12 +122,6 @@ Survey analyses include:
 - concerns about AI-generated code
 - disclosure willingness and appropriate/risky use cases
 
-## Privacy and Ethics
-
-The supplementary scripts do not include API keys, access tokens, raw email addresses, IP addresses, or institution-specific identifiers.
-
-When contributor identity is needed, the collection script stores hashed email identifiers rather than raw email addresses. Bot and automated accounts are excluded from human-contributor analyses where possible.
-
 ## Requirements
 
 Python 3.10+ is recommended.
